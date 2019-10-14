@@ -110,12 +110,12 @@ public class SettingsActivity extends SettingsCommonActivity {
 
     public static int getPrimaryColor() {
         return PreferenceManager.getDefaultSharedPreferences(DocumentsApplication.getInstance().getBaseContext())
-                .getInt(KEY_PRIMARY_COLOR, Color.parseColor("#0288D1"));
+                .getInt(KEY_PRIMARY_COLOR, Color.parseColor("#d65602"));
     }
 
     public static int getAccentColor() {
         return PreferenceManager.getDefaultSharedPreferences(DocumentsApplication.getInstance().getBaseContext())
-                .getInt(KEY_ACCENT_COLOR, Color.parseColor("#EF3A0F"));
+                .getInt(KEY_ACCENT_COLOR, Color.parseColor("#f11206"));
     }
 
     public static void setAccentColor(int color) {

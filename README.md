@@ -1,13 +1,9 @@
-AnExplorer All-in-One File Manager
+AIS Explorer All-in-One File Manager
 ==================================
 
-<a href="https://www.buymeacoffee.com/1hakr" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" height='50' style='border:0px;height:50px;' ></a>
+AIS Explorer File Manager (File Explorer) is an all-in-one file management tools.
 
-![AnExplorer](https://github.com/DWorkS/AnExplorer/raw/master/header.jpg)
-
-AnExplorer File Manager (File Explorer) is an all-in-one file management tools. Best File Explorer for Phones, Tablets, USB Storage, Root Storage, Cloud Storage, Chromecast, Wear OS Watches, Android TV and Chrome OS
-
-It is Simple, Small, Fast and Efficient File Explorer and One of the Best File Manager apps on Google Play Store.  Only file manager to support RTL and show the size of folders across the storages. File Manager is designed for all Android devices including Phones, Phablets, Tablets, Wear OS, Android TV and Chrome OS. It's a fully designed with Material guidelines by Google. It supports all Android versions from Jellybean, KitKat, Lollipop, Marshmallow, Nougat to Pie.
+It is Simple, Small, Fast and Efficient File Explorer and One of the Best File Manager apps on Google Play Store. Only file manager to support RTL and show size of folders across the storages. File Manager is designed for all android devices including Phones, Phablets, Tablets and Android TV. It's a fully designed with Material guidelines by Google. It supports all Android versions from Jellybean, Kitkat, Marshmallow to Nougat. We dont take any unnecessary permissions, **no ads, no micro payment, all free and open**.
 
 Top Features
 ============
@@ -49,28 +45,14 @@ Other Features
 * Acts as a Standalone File Picker from other applications such as attaching document files from gmail
 * Has high quality thumbnail support in list / gridview for all types of file like images, videos, album art for music files and applications
 
-Feedback is greatly appreciated. Any issues please report through mail only to support@dworks.io
-
-
-Discussion
-============
-Join [G+ community](https://plus.google.com/communities/104595695007143504224) for discussions
-
-App Links
-============
-[<img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png">](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer.pro&referrer=github)
-[<img alt="Get it on Amazon" height="60" style="margin-left: 8px;" src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-underground-app-us-black.png" />](https://www.amazon.com/gp/mas/dl/android?p=dev.dworks.apps.anexplorer)
-
 Developed By
 ============
-
-* Hari Krishna Dulipudi
+* AI-Speaker.com
+* Based on AnExplorer by Hari Krishna Dulipudi
 
 
 License
 =======
-
-    Copyright 2014 - 2018 Hari Krishna Dulipudi
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

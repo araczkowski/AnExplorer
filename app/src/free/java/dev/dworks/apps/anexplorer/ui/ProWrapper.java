@@ -35,7 +35,7 @@ public class ProWrapper extends FrameLayout {
                 DocumentsApplication.openPurchaseActivity(getContext());
             }
         });
-        setVisibility(AppPaymentFlavour.isPurchased() ? GONE : VISIBLE);
+        setVisibility(GONE);
     }
 
 }

@@ -55,11 +55,11 @@ android {
     flavorDimensions "release", "default", "variant"
     productFlavors {
         free {
-            applicationId "dev.dworks.apps.anexplorer"
+            applicationId "pl.sviete.dom.anexplorer"
             dimension "variant"
         }
         pro {
-            applicationId "dev.dworks.apps.anexplorer.pro"
+            applicationId "pl.sviete.dom.anexplorer.pro"
             dimension "variant"
         }
         mobile {

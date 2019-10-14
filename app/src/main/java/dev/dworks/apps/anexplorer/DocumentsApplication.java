@@ -134,6 +134,7 @@ public class DocumentsApplication extends AppPaymentFlavour {
 
         isTelevision = Utils.isTelevision(this);
         isWatch = Utils.isWatch(this);
+        SettingsActivity.setThemeStyle(AppCompatDelegate.MODE_NIGHT_YES);
         if((isTelevision || isWatch) && Integer.valueOf(SettingsActivity.getThemeStyle())
                 != AppCompatDelegate.MODE_NIGHT_YES){
             SettingsActivity.setThemeStyle(AppCompatDelegate.MODE_NIGHT_YES);
